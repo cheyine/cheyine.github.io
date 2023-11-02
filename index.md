@@ -24,9 +24,9 @@
                     </div>
                   </div> 
                 </h1>
-                <h3 style='clear:both' class="subhead">
-                  <a href="https://plus.google.com/108495471566196018473/posts">Chelsea</a> is an enthusiastic, young, self-taught graphic designer & coder currently pursuing her Bachelors in Information Technology. Which is why this website is currently under construction!
-                </h3>
+                <h4 style='clear:both' class="subhead">
+                  <a href="cheyine.github.io">Chelsea</a> is an enthusiastic, young, self-taught graphic designer & coder currently pursuing her Bachelors in Information Technology. Which is why this website is currently under construction!
+                </h4>
               </div>
             </div>
           </div>
